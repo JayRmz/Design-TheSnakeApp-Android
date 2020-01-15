@@ -18,3 +18,12 @@ Wireframes are used to see UX, basically the way user will interact with the app
 
 ### Snake Detail
 ![Breed](Documentation/LFSnakeDetail.png)
+
+### Lobby - Snake Lists
+![Lobby](Documentation/HFLobby.png)
+
+### Lobby - Delete Snake 
+![Escape](Documentation/HFDeleteAction.png)
+
+### Snake Detail
+![Breed](Documentation/HFSnakeDetail.png)
